@@ -40,3 +40,38 @@ The focus was on **clean UI implementation, responsive design, and component-bas
 
 ## 📂 Folder Structure
 
+olive-frontend-assignment/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── PhonePreview.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── index.css
+├── package.json
+├── vite.config.js
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Nitheeshhd/olive-frontend-assignment.git
+cd olive-frontend-assignment
+
+npm install
+npm run dev
+
+npm run build
+
+Accurate UI replication from reference design
+Clean and reusable component structure
+Responsive design for different screen sizes
+Attention to spacing, typography, and alignmen
+
