@@ -1,16 +1,42 @@
-# React + Vite
+# 🫒 Olive Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-inspired recreation of the Olive landing page built using **React + Vite + Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+live demo link:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Project Overview
+
+This project replicates the Olive website hero section based on the provided screenshot.  
+The focus was on **clean UI implementation, responsive design, and component-based architecture**.
+
+---
+
+## ✨ Features
+
+- Responsive Navbar
+- Hero section with heading, subtext, and CTA buttons
+- Phone preview with real app UI
+- Floating feature cards (scanner score, product insight, smart cart)
+- Clean modern UI using Tailwind CSS
+- Fully responsive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+---
+
+## 📂 Folder Structure
+
